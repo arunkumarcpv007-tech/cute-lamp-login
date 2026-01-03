@@ -30,6 +30,7 @@ Navigate to the folder:
 Bash
 
 cd cute-lamp-login
+
 Open index.html in your browser.
 
 🤝 Credits
